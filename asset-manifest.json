@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/star-travel-react.github.io/static/css/main.54236cad.css",
+    "main.js": "/star-travel-react.github.io/static/js/main.e67dce03.js",
+    "static/js/787.ead48c3e.chunk.js": "/star-travel-react.github.io/static/js/787.ead48c3e.chunk.js",
+    "static/media/features-bg.png": "/star-travel-react.github.io/static/media/features-bg.a84233a79f61b18c4421.png",
+    "static/media/offer-banner.png": "/star-travel-react.github.io/static/media/offer-banner.5b8cc7512f842cfcfb3a.png",
+    "static/media/item-2.png": "/star-travel-react.github.io/static/media/item-2.b8a4ad59b77f43b080e8.png",
+    "static/media/header.png": "/star-travel-react.github.io/static/media/header.f49770330928378cb490.png",
+    "static/media/visit-4.jpg": "/star-travel-react.github.io/static/media/visit-4.9d24d0b57fa17364e9a3.jpg",
+    "static/media/item-1.png": "/star-travel-react.github.io/static/media/item-1.69c5908b5e906343097d.png",
+    "static/media/not-found-image.png": "/star-travel-react.github.io/static/media/not-found-image.a2ded6711a8141986a76.png",
+    "static/media/ab-3.png": "/star-travel-react.github.io/static/media/ab-3.73d7c020b83fca274dfc.png",
+    "static/media/visit-3.jpg": "/star-travel-react.github.io/static/media/visit-3.6905e18b2558c81cfc7e.jpg",
+    "static/media/ab-1.png": "/star-travel-react.github.io/static/media/ab-1.360c45c004fbe2ac7915.png",
+    "static/media/visit-2.jpg": "/star-travel-react.github.io/static/media/visit-2.aa399bb3057f817931fd.jpg",
+    "static/media/ab-4.png": "/star-travel-react.github.io/static/media/ab-4.30edda50d54796590bf1.png",
+    "static/media/visit-1.jpg": "/star-travel-react.github.io/static/media/visit-1.ca963ba5ed84ab6e84d8.jpg",
+    "static/media/ab-2.png": "/star-travel-react.github.io/static/media/ab-2.56393ee60d9e0e1ccef0.png",
+    "static/media/add-srvc-6.png": "/star-travel-react.github.io/static/media/add-srvc-6.d35fb2159a7e760ed808.png",
+    "static/media/error.gif": "/star-travel-react.github.io/static/media/error.abdd13b75a31917dbbe6.gif",
+    "static/media/add-srvc-2.png": "/star-travel-react.github.io/static/media/add-srvc-2.121605dab2aea1f6b7d2.png",
+    "static/media/add-srvc-3.png": "/star-travel-react.github.io/static/media/add-srvc-3.e614824e11be092cd8bf.png",
+    "static/media/add-srvc-1.png": "/star-travel-react.github.io/static/media/add-srvc-1.119c68a9d6aadaa88bee.png",
+    "static/media/add-srvc-4.png": "/star-travel-react.github.io/static/media/add-srvc-4.f4ac9646f86c20061052.png",
+    "static/media/client.png": "/star-travel-react.github.io/static/media/client.b83f4f5d1d61c1bb89be.png",
+    "static/media/add-srvc-5.png": "/star-travel-react.github.io/static/media/add-srvc-5.201189fdac30ea8b8396.png",
+    "static/media/rightdot.svg": "/star-travel-react.github.io/static/media/rightdot.a2a1815368abe3f035a777d1f53bd511.svg",
+    "static/media/leftdot.svg": "/star-travel-react.github.io/static/media/leftdot.b6616c261becd18590bbe3a5771d22a0.svg",
+    "index.html": "/star-travel-react.github.io/index.html",
+    "main.54236cad.css.map": "/star-travel-react.github.io/static/css/main.54236cad.css.map",
+    "main.e67dce03.js.map": "/star-travel-react.github.io/static/js/main.e67dce03.js.map",
+    "787.ead48c3e.chunk.js.map": "/star-travel-react.github.io/static/js/787.ead48c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54236cad.css",
+    "static/js/main.e67dce03.js"
+  ]
+}
